@@ -6,7 +6,7 @@ Student Name: Kamala Ramesh
  
 Course: CS 5720 (CRN 23216)
  
-Description: This assignment consists of program snippets that trains data such as diabetes, breast cancer and Image classification using neural networks.
+Description: This assignment consists of program snippets that trains data for datasets like diabetes, breast cancer and Image classification using neural networks.
  
 For more details, please find the below the required links,
 
